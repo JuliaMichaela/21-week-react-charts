@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/21-week-react-charts/static/css/main.073c9b0a.css",
+    "main.js": "/21-week-react-charts/static/js/main.c3ad0d60.js",
+    "index.html": "/21-week-react-charts/index.html",
+    "main.073c9b0a.css.map": "/21-week-react-charts/static/css/main.073c9b0a.css.map",
+    "main.c3ad0d60.js.map": "/21-week-react-charts/static/js/main.c3ad0d60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c3ad0d60.js"
+  ]
+}
